@@ -28,12 +28,6 @@ pandas and numpy (for data processing)
 matplotlib (for plotting visualizations)
 
 ## Installation
-Clone this repository:
-
-git clone https://github.com/yourusername/sa-weather-analysis.git
-cd sa-weather-analysis
-
-(Optional) Create and activate a virtual environment:
 
 ## For Linux/macOS:
 python -m venv env
